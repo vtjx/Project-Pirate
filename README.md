@@ -11,6 +11,5 @@ WASD Keys or Arrow Keys to move
 Space to Jump
 
 C to Attack
-
 <h2>Release</h2>
 Pre-installed game under <a href="https://github.com/vtjx/Project-Pirate/releases/tag/Game">Releases</a>
