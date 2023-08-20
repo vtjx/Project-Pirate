@@ -12,4 +12,6 @@ Space to Jump
 
 C to Attack
 <h2>Release</h2>
+Try the game on <a href="https://valenxt.itch.io/project-pirate">itch.io</a>
+
 Pre-installed game under <a href="https://github.com/vtjx/Project-Pirate/releases/tag/Game">Releases</a>
